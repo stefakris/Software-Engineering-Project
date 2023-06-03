@@ -1,6 +1,6 @@
 # Title: CES Albania Web Application - Online Financial Services and LMS Platform 
 ## Project Overview
-CES Albania is the company that I was assigned to develop by the ConnectIT project in the framework of Software Engineering subject. The project involves developing a comprehensive online platform for CES Albania to offer financial services, accounting solutions, and an LMS platform. The platform will enable users to access various financial services, enroll in online courses, and connect with industry professionals. The project will be executed using an Agile development model, allowing for iterative development, frequent feedback, and continuous improvement.
+CES Albania is the company that I was assigned to develop by the ConnectIT project in the framework of Software Engineering subject. This company has an already existing web application, but it was not functional. My aim was to redesign and implement an LMS platform and make this site funstional and this is what my software engineering project is about. The project involves developing a comprehensive online platform for CES Albania to offer financial services, accounting solutions, and an LMS platform. The platform will enable users to access various financial services, enroll in online courses, and connect with industry professionals. The project will be executed using an Agile development model, allowing for iterative development, frequent feedback, and continuous improvement.
 
 ## Abstract
 This Software Engineering project aims to develop an online platform for CES Albania, a financial services company, to provide a range of services including financial solutions, accounting services, and a Learning Management System (LMS) for practical learning and connecting students with job opportunities. The project follows an Agile development model to ensure flexibility, collaboration, and iterative development. This project overview outlines the stakeholders, users, development approach, user requirements, application specifications, technologies used (CloudyHost and WordPress), software design, and modeling for the successful implementation of the platform.
@@ -86,8 +86,10 @@ The CES Albania website will be deployed on a cloud hosting platform like Cloudy
 ### Initial questions 
 1. Do you want the same logo? <br>
 2. Do you want students to be able to repeat the course if they fail the first time?<br>
-3. Do you want us to decide, allow students to leave a comment in courses where they ask about any ambiguity?<br>
-4. Regarding the payment, should we only pay for one course or should we also subscribe to a subscription package?<br>
-5. Do you have a PayPal account for business? (if not, you need the name of the legal representative, ID card, license, registration certificate)<br>
-6. Do you want to apply a discount for first-time registrants? Or some other kind of coupon?<br>
+3. Do you want to allow students to leave a comment in courses where they ask about any ambiguity?<br>
+4. Regarding the payment, should we only  leave payment for course or should we also make ubscription packages?<br>
+5. Do you have a PayPal account for business?<br>
+6. Do you want to apply a discount for first-time registrants? Or some other kind of coupons?<br>
 7. What data do you want to record for each student?
+
+### https://cesfinance.al/
